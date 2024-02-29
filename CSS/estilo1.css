@@ -1,0 +1,92 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#general {
+    margin: auto;
+    padding-top: 15px;
+    margin-top: 15px;
+    width: 600px;
+    height: 600px;
+    background-color: aqua;
+}
+#caja1 {
+    margin: auto;
+    margin-bottom: 15px;
+
+    width: 560px;
+    height: 150px;
+    background-color: peru;
+}
+#caja2 {
+    margin: auto;
+    margin-bottom: 15px;
+    width: 560px;
+    height: 150px;
+    background-color: lightblue;
+}
+#caja3 {
+    margin: auto;
+    margin-left: 19px;
+    float: left;
+    width: 250px;
+    height: 200px;
+    background-color: yellow;
+}
+#caja4 {
+    margin: auto;
+    margin-right: 19px;
+    float: right;
+    width: 250px;
+    height: 200px;
+    background-color: greenyellow;
+}
+
+
+
+#figura {
+    margin: auto;
+    padding-top: 15px;
+    margin-top: 15px;
+    width: 600px;
+    height: 600px;
+    background-color: yellow;
+    border-radius: 350px;
+}
+#ojo1 {
+    margin: auto;
+    margin-top: 150px;
+    margin-right: 170px;
+    float: right;
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    border-radius: 350px;
+}
+#ojo2 {
+    margin: auto;
+    margin-top: 150px;
+    margin-left: 170px;
+    float: left;
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    border-radius: 350px;
+}
+#nariz {
+    margin: auto;
+    margin-top: 280px;
+    width: 200px;
+    height: 70px;
+    background-color: orangered;
+    border-radius: 300px;
+}
+#boca {
+    margin: auto;
+    margin-top: 100px;
+    width: 300px;
+    height: 100px;
+    background-color: orange;
+    border-radius: 300px;
+}
